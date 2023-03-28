@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="iNutri.SignUpPage">
+    <ScrollView>
+        <Grid RowSpacing="25"
+              Padding="25"
+              BackgroundColor="LightBlue">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.5*" />
+                <ColumnDefinition Width="0.5*" />
+            </Grid.ColumnDefinitions>
+        <Label Text="Sign Up"
+               FontAttributes="Bold"
+               TextColor="Black"
+               FontSize="Large"
+               HorizontalOptions="Center"
+               Grid.ColumnSpan="2"
+               Grid.Row="0"         />
+            <!-- Email label and text box -->       
+        <Label Grid.Row="1"
+               Grid.Column="0"
+               Text="Email:"
+               TextColor="Black"
+               FontAttributes="Bold"/>
+        <Entry Grid.Row="1"
+               Grid.Column="1"
+               Placeholder="Email"/>
+
+        <!-- Password label and password box -->
+        <Label Text="Password:"
+               TextColor="Black"
+               Grid.Row="2"
+               Grid.Column="0"
+               FontAttributes="Bold"/>
+        <Entry Grid.Row="2"
+               Grid.Column="1"
+               Placeholder="Password"/>
+
+        <!-- Confirm password label and password box -->
+        <Label Grid.Row="3"
+               Grid.Column="0"
+               TextColor="Black"
+               Text="Confirm Password:"
+               FontAttributes="Bold"/>
+        <Entry Grid.Row="3"
+                     Grid.Column="1"
+                     Placeholder="Confirm Password"/>
+
+        <!-- First Placeholder label and text box -->
+        <Label Grid.Row="4"
+               Grid.Column="0"
+               TextColor="Black"
+               Text="First Name:" 
+               FontAttributes="Bold"/>
+        <Entry Grid.Row="4"
+                 Grid.Column="1"
+                 Placeholder="First Name" />
+
+        <!-- Last Placeholder label and text box -->
+        <Label Grid.Row="5"
+               Grid.Column="0"
+               Text="Last Name:" 
+               TextColor="Black"
+               FontAttributes="Bold"/>
+            <Entry Grid.Row="5"
+                 Grid.Column="1"
+                 Placeholder="Last Name" />
+
+            <!-- Sign up button -->
+        <Button Grid.Row="6"
+                Grid.ColumnSpan="3"
+                FontAttributes="Bold"
+                HorizontalOptions="Center"
+                Text="Sign Up" />
+
+            <Label Text="Already have an account?"
+                   TextColor="Black"
+                   FontAttributes="Bold"
+               FontSize="16"
+               Grid.ColumnSpan="3"
+               HorizontalOptions="Center"
+               Grid.Row="7" />
+
+            <Button Text="Sign In"
+                Clicked="OnSignInButton2Clicked"
+                FontAttributes="Bold"
+                Grid.ColumnSpan="3"
+                Grid.Row="8"
+                HorizontalOptions="Center"/>
+        </Grid>
+    </ScrollView>
+
+</ContentPage>

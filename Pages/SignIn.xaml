@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="iNutri.SignInPage">
+    
+    <Grid RowSpacing="25"
+          Padding="25"
+          BackgroundColor="LightBlue">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.5*" />
+            <ColumnDefinition Width="0.5*" />
+        </Grid.ColumnDefinitions>
+
+        <Label Text="Sign In" FontAttributes="Bold"
+               TextColor="Black" FontSize="Large"
+               HorizontalOptions="Center" Grid.ColumnSpan="2"
+               Grid.Row="0" />
+
+        <Label Text="Email" TextColor="Black"
+               FontAttributes="Bold" FontSize="Medium"
+               Grid.Row="1" />
+        
+        
+        <Entry Placeholder="Email" Keyboard="Email"
+               Grid.ColumnSpan="3" Grid.Row="2" 
+               x:Name="UserEmail"/>
+
+        <Label Text="Password" TextColor="Black"
+               FontAttributes="Bold" FontSize="Medium"
+               Grid.Row="3" />
+        
+        <Entry Placeholder="Password"
+               IsPassword="True"
+               Grid.ColumnSpan="2"
+               Grid.Row="4" 
+               x:Name="UserPassword"/>
+
+        <Button Text="Sign In" FontAttributes="Bold"
+                Clicked="OnSignInButton1Clicked" Grid.ColumnSpan="2"
+                Grid.Row="5" HorizontalOptions="Center"/>
+
+        <Label Text="Don't have an account?"
+               FontAttributes="Bold"
+               FontSize="16"
+               Grid.ColumnSpan="2"
+               TextColor="Black"
+               HorizontalOptions="Center"
+               Grid.Row="6" />
+
+        <Button Text="Sign Up" Clicked="OnSignUpButtonClicked"
+                FontAttributes="Bold" Grid.ColumnSpan="2"
+                Grid.Row="7" HorizontalOptions="Center"/>
+
+    </Grid>
+    
+</ContentPage>
