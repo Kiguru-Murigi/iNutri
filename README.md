@@ -1,5 +1,7 @@
 # iNutri
 
+Check out this tutorial on [Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/build-apps-with-dotnet-maui/)
+
 ## UI pages are in Pages. There are 3 pages:
   * HomePage.xaml
   * SignIn.xaml
