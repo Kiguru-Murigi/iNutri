@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="iNutri.Pages.NutritionGuide">
+
+    <ScrollView Orientation="Vertical">
+        <StackLayout Padding="25"
+                     Spacing="25">
+            <Label Text="Nutrition Guide"
+                   HorizontalOptions="Center"
+                   FontSize="Large"
+                   FontAttributes="Bold"/>
+
+
+            <Button Text="Cancer"
+                    Clicked="OnCancerClicked"
+                    FontSize="Medium"
+                    FontAttributes="Bold"/>
+
+            <Picker x:Name="CancerPicker"/>
+            
+            <Button Text="Cardiovascular diseases"
+                    Clicked="OnCardiovascularClicked"
+                    FontSize="Medium"
+                    FontAttributes="Bold"/>
+            
+            <Picker x:Name="CardiovascularPicker" />
+
+            <Button Text="Diabetes"
+                    Clicked="OnDiabetesClicked"
+                    FontSize="Medium"
+                    FontAttributes="Bold"/>
+            
+            <Picker x:Name="DiabetesPicker" />
+
+            <Button Text="Chronic Respirotory"
+                    Clicked="OnChronicClicked"
+                    FontSize="Medium"
+                    FontAttributes="Bold"/>
+            
+            <Picker x:Name="ChronicPicker" />
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

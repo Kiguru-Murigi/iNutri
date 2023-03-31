@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-28T17:43:33.676</Modified>
+      <Modified>2023-03-31T22:39:53.134</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-28T17:43:33.155</Modified>
+      <Modified>2023-03-31T22:39:51.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\iNutri.runtimeconfig.json">
       <PackagePath>iNutri.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\iNutri.dll">
       <PackagePath>iNutri.dll</PackagePath>
-      <Modified>2023-03-28T17:43:30.842</Modified>
+      <Modified>2023-03-31T22:39:50.073</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>iNutri.exe</PackagePath>
-      <Modified>2023-03-28T17:43:30.880</Modified>
+      <Modified>2023-03-31T22:39:50.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.8\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1063,7 +1063,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\iNutri.deps.json">
       <PackagePath>iNutri.deps.json</PackagePath>
-      <Modified>2023-03-28T17:43:33.453</Modified>
+      <Modified>2023-03-31T22:39:52.887</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.486\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1131,147 +1131,155 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-03-26T19:43:06.385</Modified>
+      <Modified>2023-03-31T17:49:52.527</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.626</Modified>
+      <Modified>2023-03-31T17:49:52.796</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.640</Modified>
+      <Modified>2023-03-31T17:49:52.811</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.652</Modified>
+      <Modified>2023-03-31T17:49:52.823</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.672</Modified>
+      <Modified>2023-03-31T17:49:52.842</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.743</Modified>
+      <Modified>2023-03-31T17:49:52.915</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.400</Modified>
+      <Modified>2023-03-31T17:49:52.564</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.405</Modified>
+      <Modified>2023-03-31T17:49:52.568</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.411</Modified>
+      <Modified>2023-03-31T17:49:52.574</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.416</Modified>
+      <Modified>2023-03-31T17:49:52.579</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.424</Modified>
+      <Modified>2023-03-31T17:49:52.585</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.494</Modified>
+      <Modified>2023-03-31T17:49:52.645</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.501</Modified>
+      <Modified>2023-03-31T17:49:52.652</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.509</Modified>
+      <Modified>2023-03-31T17:49:52.660</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.519</Modified>
+      <Modified>2023-03-31T17:49:52.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.539</Modified>
+      <Modified>2023-03-31T17:49:52.691</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.460</Modified>
+      <Modified>2023-03-31T17:49:52.614</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.465</Modified>
+      <Modified>2023-03-31T17:49:52.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.472</Modified>
+      <Modified>2023-03-31T17:49:52.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.478</Modified>
+      <Modified>2023-03-31T17:49:52.629</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.488</Modified>
+      <Modified>2023-03-31T17:49:52.639</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.428</Modified>
+      <Modified>2023-03-31T17:49:52.588</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.433</Modified>
+      <Modified>2023-03-31T17:49:52.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.440</Modified>
+      <Modified>2023-03-31T17:49:52.596</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.446</Modified>
+      <Modified>2023-03-31T17:49:52.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.454</Modified>
+      <Modified>2023-03-31T17:49:52.609</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.547</Modified>
+      <Modified>2023-03-31T17:49:52.699</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.554</Modified>
+      <Modified>2023-03-31T17:49:52.709</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.564</Modified>
+      <Modified>2023-03-31T17:49:52.721</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.578</Modified>
+      <Modified>2023-03-31T17:49:52.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.614</Modified>
+      <Modified>2023-03-31T17:49:52.785</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\consultation.scale-100.png">
+      <PackagePath>consultation.scale-100.png</PackagePath>
+      <Modified>2023-03-31T17:46:16.987</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.450</Modified>
+      <Modified>2023-03-31T17:49:52.490</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.467</Modified>
+      <Modified>2023-03-31T17:49:52.505</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.485</Modified>
+      <Modified>2023-03-31T17:49:52.521</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.507</Modified>
+      <Modified>2023-03-31T17:49:52.545</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-03-26T19:43:06.560</Modified>
+      <Modified>2023-03-31T17:49:52.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\nutritionguide.scale-100.png">
+      <PackagePath>nutritionguide.scale-100.png</PackagePath>
+      <Modified>2023-03-31T17:02:32.210</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
