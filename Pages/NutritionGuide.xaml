@@ -13,28 +13,24 @@
 
 
             <Button Text="Cancer"
-                    Clicked="OnCancerClicked"
                     FontSize="Medium"
                     FontAttributes="Bold"/>
 
             <Picker x:Name="CancerPicker"/>
             
             <Button Text="Cardiovascular diseases"
-                    Clicked="OnCardiovascularClicked"
                     FontSize="Medium"
                     FontAttributes="Bold"/>
             
             <Picker x:Name="CardiovascularPicker" />
 
             <Button Text="Diabetes"
-                    Clicked="OnDiabetesClicked"
                     FontSize="Medium"
                     FontAttributes="Bold"/>
             
             <Picker x:Name="DiabetesPicker" />
 
             <Button Text="Chronic Respirotory"
-                    Clicked="OnChronicClicked"
                     FontSize="Medium"
                     FontAttributes="Bold"/>
             

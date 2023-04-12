@@ -350,3 +350,4 @@ C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Deb
 C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\unsplashSplashScreen.scale-400.png
 C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\consultation.scale-100.png
 C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\nutritionguide.scale-100.png
+C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\nutritionguide.scale-100.jpg

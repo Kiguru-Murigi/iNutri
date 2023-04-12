@@ -959,3 +959,7 @@ C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Deb
 C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-android\resizetizer\r\drawable-xhdpi\unsplash.jpg
 C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-android\resizetizer\r\drawable-xxhdpi\unsplash.jpg
 C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-android\resizetizer\r\drawable-xxxhdpi\unsplash.jpg
+C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-android\resizetizer\r\drawable\consultation.png
+C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-android\resizetizer\r\drawable\nutritionguide.png
+C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-android\resizetizer\r\drawable\nutrition.png
+C:\Users\Lenovo\OneDrive - Strathmore University\Desktop\GOL\MAUI\iNutri\obj\Debug\net6.0-android\resizetizer\r\drawable\nutritionguide.jpg
