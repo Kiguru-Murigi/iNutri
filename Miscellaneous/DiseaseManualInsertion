@@ -1,0 +1,78 @@
+USE Diseases;
+
+INSERT INTO Disease(id ,
+    id,
+    disease_name,
+    disease_overview,
+    disease_symptoms,
+    disease_causes,
+    disease_prevention,
+    disease_maintenance,
+    tags,
+)
+VALUES(
+    1, "Chronic Obstructive I Pulmonary Disease (COPD)",
+    "Chronic obstructive pulmonary disease (COPD) is a chronic inflammatory lung disease that causes obstructed airflow from the lungs. Symptoms include breathing difficulty, cough, mucus (sputum) production and wheezing. It's typically caused by long-term exposure to irritating gasses or particulate matter, most often from cigarette smoke. People with COPD are at increased risk of developing heart disease, lung cancer and a variety of other conditions.
+
+Emphysema and chronic bronchitis are the two most common conditions that contribute to COPD. These two conditions usually occur together and can vary in severity among individuals with COPD.
+
+Chronic bronchitis is inflammation of the lining of the bronchial tubes, which carry air to and from the air sacs (alveoli) of the lungs. It's characterized by daily cough and mucus (sputum) production.
+
+Emphysema is a condition in which the alveoli at the end of the smallest air passages (bronchioles) of the lungs are destroyed as a result of damaging exposure to cigarette smoke and other irritating gases and particulate matter.
+
+Although COPD is a progressive disease that gets worse over time, COPD is treatable. With proper management, most people with COPD can achieve good symptom control and quality of life, as well as reduced risk of other associated conditions. 
+","COPD symptoms often don't appear until significant lung damage has occurred, and they usually worsen over time, particularly if smoking exposure continues.
+
+Signs and symptoms of COPD may include:
+
+Shortness of breath, especially during physical activities 
+Wheezing
+Chest tightness
+A chronic cough that may produce mucus (sputum) that may be clear, white, yellow or greenish
+Frequent respiratory infections
+Lack of energy
+Unintended weight loss (in later stages)
+Swelling in ankles, feet or legs
+
+People with COPD are also likely to experience episodes called exacerbations, during which their symptoms become worse than the usual day-to-day variation and persist for at least several days.
+
+","The main cause of COPD in developed countries is tobacco smoking. In the developing world, COPD often occurs in people exposed to fumes from burning fuel for cooking and heating in poorly ventilated homes.
+
+Only some chronic smokers develop clinically apparent COPD, although many smokers with long smoking histories may develop reduced lung function. Some smokers develop less common lung conditions. They may be misdiagnosed as having COPD until a more thorough evaluation is performed.
+
+","The main cause of COPD in developed countries is tobacco smoking. In the developing world, COPD often occurs in people exposed to fumes from burning fuel for cooking and heating in poorly ventilated homes.
+
+Only some chronic smokers develop clinically apparent COPD, although many smokers with long smoking histories may develop reduced lung function. Some smokers develop less common lung conditions. They may be misdiagnosed as having COPD until a more thorough evaluation is performed.
+","In the vast majority of people with COPD, the lung damage that leads to COPD is caused by long-term cigarette smoking. But there are likely other factors at play in the development of COPD, such as a genetic susceptibility to the disease, because not all smokers develop COPD.
+
+Unlike some diseases, COPD typically has a clear cause and a clear path of prevention, and there are ways to slow the progression of the disease. The majority of cases are directly related to cigarette smoking, and the best way to prevent COPD is to never smoke — or to stop smoking now.
+
+If you're a longtime smoker, these simple statements may not seem so simple, especially if you've tried quitting — once, twice or many times before. But keep trying to quit. It's critical to find a tobacco cessation program that can help you quit for good. It's your best chance for reducing damage to your lungs.
+
+Occupational exposure to chemical fumes and dusts is another risk factor for COPD. If you work with these types of lung irritants, talk to your supervisor about the best ways to protect yourself, such as using respiratory protective equipment.
+
+Here are some steps you can take to help prevent complications associated with COPD:
+
+Quit smoking to help reduce your risk of heart disease and lung cancer
+Get an annual flu vaccination and regular vaccination against pneumococcal pneumonia to reduce your risk of or prevent some infections
+Talk to your doctor if you feel sad or helpless or think that you may be experiencing depression.
+
+",
+"The goal of COPD management is to improve a patient’s functional status and quality of life by preserving optimal lung function, improving symptoms, and preventing the recurrence of exacerbations. Currently, no treatments aside from lung transplantation have been shown to significantly improve lung function or decrease mortality; however, oxygen therapy (when appropriate) and smoking cessation may reduce mortality. Once the diagnosis of COPD is established, it is important to educate the patient about the disease and to encourage his or her active participation in therapy.
+Results of a randomized controlled trial showed that a comprehensive disease management strategy, which included a patient education session, a self-treatment plan for exacerbations, and a monthly follow-up call from a case manager, is associated with a lower hospitalization rate and fewer emergency department visits.
+
+Recommended Meal Plans:
+
+High-Protein Foods: COPD patients need extra protein to maintain muscle mass, which can be lost due to difficulty breathing and inactivity. Foods such as lean meats, poultry, fish, beans, lentils, eggs, and dairy products are good sources of protein.
+Fruits and Vegetables: Fruits and vegetables are rich in antioxidants, vitamins, and minerals, which can help strengthen the immune system and reduce inflammation. They are also a good source of fiber, which can help improve digestion and prevent constipation.
+Whole Grains: Whole grains such as brown rice, quinoa, oats, and whole-wheat bread are high in fiber and can help regulate blood sugar levels. They are also a good source of B vitamins, which can help reduce inflammation.
+Healthy Fats: Healthy fats such as olive oil, avocados, nuts, and seeds can help reduce inflammation and improve lung function.
+
+Prohibited Meal Plans:
+
+High-Sodium Foods: COPD patients should avoid high-sodium foods such as canned soups, processed meats, and fast food, which can increase fluid retention and make it harder to breathe.
+Fried and Fatty Foods: Fried and fatty foods can be hard to digest and can cause bloating and indigestion, which can make it harder to breathe.
+Carbonated Beverages: Carbonated beverages such as soda and sparkling water can increase bloating and gas, which can make it harder to breathe.
+Alcohol: COPD patients should limit or avoid alcohol as it can interfere with breathing and can interact with medications.
+",""
+)

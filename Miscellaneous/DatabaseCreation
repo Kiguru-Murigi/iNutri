@@ -1,0 +1,16 @@
+DROP DATABASE IF EXISTS Diseases;
+
+CREATE DATABASE Diseases;
+USE Diseases;
+
+CREATE TABLE Disease(
+    id INT NOT NULL PRIMARY KEY IDENTITY,
+    disease_name VARCHAR(255) NOT NULL,
+    disease_overview VARCHAR(255),
+    disease_symptoms VARCHAR(255),
+    disease_causes VARCHAR(255),
+    disease_prevention VARCHAR(255),
+    disease_maintenance VARCHAR(255),
+    tags VARCHAR(255) NOT NULL,
+
+)
